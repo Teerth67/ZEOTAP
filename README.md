@@ -2,7 +2,10 @@
 //Used jest to test all five cases requiered
 //bonus implemented
 
-
+Tech Stack
+Backend: Node.js, Express
+Database: sql
+Testing: Jest
 ## Prerequisites
 
 - Node.js (>=14.x)
